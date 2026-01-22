@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+# Allow directories to be traversed
+!*/
+
+# Keep only VTT files
+!**/en.vtt
+!**/vi.vtt
